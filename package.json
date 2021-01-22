@@ -30,6 +30,9 @@
     "webpack-cli": "*",
     "webpack-dev-server": "*"
   },
+  "engines": {
+    "node": "14"
+  },
   "browserslist": [
     "defaults",
     "not ie < 11",
