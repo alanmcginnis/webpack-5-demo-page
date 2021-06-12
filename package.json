@@ -16,7 +16,7 @@
     "cross-env": "^7.0.3",
     "css-loader": "*",
     "file-loader": "*",
-    "handlebars": "*",
+    "handlebars": "^4.7.7",
     "handlebars-loader": "*",
     "html-webpack-plugin": "*",
     "image-webpack-loader": "*",
